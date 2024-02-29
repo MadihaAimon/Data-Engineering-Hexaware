@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Feb 12 12:42:52 IST 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-018d-9c29-5622-000001ad8fc0 
+on database directory C:\Users\madih\Desktop\Data Engineering\PySpark\PySpark coding challenge\metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@33909752 
+Loaded from file:/C:/Spark/spark-3.5.0-bin-hadoop3/jars/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=21.0.2+13-LTS-58
+user.dir=C:\Users\madih\Desktop\Data Engineering\PySpark\PySpark coding challenge
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
